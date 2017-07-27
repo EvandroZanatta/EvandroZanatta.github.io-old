@@ -27,4 +27,4 @@ Este projeto, trata-se de um blog, onde eu escrevo dicas para pessoas iniciantes
 
 ## Fotografia
 
-Também gosto de fotografia, ~~mesmo não praticando muito no dia dia~~ tenho uma Nikon D3200. Em breve posta algumas fotos aqui no blog.
+Também gosto de fotografia, ~~mesmo não praticando muito no dia dia~~ tenho uma Nikon D3200. Em breve posto algumas fotos aqui no blog.
