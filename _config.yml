@@ -4,7 +4,7 @@ email:       your_email@example.com
 author:      Evandro Zanatta
 description: "Full-Stack Developer at Tray e-commerce(Locaweb)"
 baseurl:     ""
-url:         "https://evanrozanatta.github.io"
+url:         "https://evandrozanatta.github.io"
 root: /
 date_format: "%b %-d, %Y"
 header_pages:
