@@ -6,7 +6,7 @@ description: "Full-Stack Developer at Tray e-commerce(Locaweb)"
 baseurl:     ""
 url:         "https://evandrozanatta.github.io"
 root: /
-date_format: "%b %-d, %Y"
+date_format: "%-d %b de %Y"
 header_pages:
  - about.md
  - contact.html
@@ -21,7 +21,7 @@ google_tag_manager:
 bing_verification:
 
 # Optional features
-animated:             true
+animated:             false
 show_related_posts:   false
 show_post_footers:    false
 show_social_icons:    false
@@ -99,7 +99,7 @@ text:
     hackernews:   'Share on Hacker News'
   post:
     updated:        'Atualizado'
-    minute_read:    'minuto de leitura'
+    minute_read:    'minuto(s) de leitura'
     related_posts:  'Posts Relacionados'
   index:
     coming_soon: 'Em breve...'
@@ -112,7 +112,7 @@ text:
       sending:  'enviando..'
       sent:     'Mensagem enviada!'
       error:    'Erro :('
-  thanks: 'Obrigado por entrar em contato. Estarei respondendo assim que possível'
+  thanks: 'Obrigado por entrar em contato. Estarei respondendo assim que possível!'
   og_locale: 'pt_BR'
 
 # Build settings
