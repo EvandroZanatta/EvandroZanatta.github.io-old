@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Hello, world!
+title:      Hello, world! Novo blog
 date:       2017-07-27
 summary:    Por aqui começamos este meu blog pessoal
 categories: blog
