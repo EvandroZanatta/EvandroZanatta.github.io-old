@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Obrigado por entrar em contato
+title: Recebi sua mensagem :)
 permalink: /obrigado/
 ---
 {{ site.text.thanks }}
