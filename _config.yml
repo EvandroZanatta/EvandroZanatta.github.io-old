@@ -6,7 +6,7 @@ description: "Full-Stack Developer at Tray e-commerce(Locaweb)"
 baseurl:     ""
 url:         "https://evandrozanatta.github.io"
 root: /
-date_format: "%-d %b de %Y"
+date_format: "%-d %b %Y"
 header_pages:
  - about.md
  - contact.html
@@ -15,7 +15,7 @@ header_pages:
 google_verification:
 # Use either direct GA implementation or set up GTM account
 # - using both will skew your data (leave blank to not use at all)
-google_analytics:
+google_analytics: UA-55939778-1
 google_tag_manager:
 # Bing services
 bing_verification:
