@@ -6,7 +6,7 @@ description: "Full-Stack Developer at Tray e-commerce(Locaweb)"
 baseurl:     ""
 url:         "https://evandrozanatta.github.io"
 root: /
-permalink: /:categories/:title.html
+permalink: /:categories/:title/
 date_format: "%-d %b %Y"
 header_pages:
  - about.md
