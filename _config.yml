@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
+title:       Evandro Zanatta
 email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+author:      Evandro Zanatta
+description: "Full-Stack Developer at Tray e-commerce(Locaweb)"
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "https://evanrozanatta.github.io"
 root: /
 date_format: "%b %-d, %Y"
 header_pages:
