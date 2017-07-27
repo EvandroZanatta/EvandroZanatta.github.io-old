@@ -24,3 +24,7 @@ O AgroMille é um projeto que participo junto ao meu amigo Alexandre Almeida. A 
 ### Pequeno Jardineiro
 
 Este projeto, trata-se de um blog, onde eu escrevo dicas para pessoas iniciantes em jardinagem e horticultura. Existe a intenção de também vender alguns kits para iniciantes em uma loja virtual.
+
+## Fotografia
+
+Também gosto de fotografia, ~mesmo não praticando muito no dia dia~. Tenho uma Nikon D3200.
