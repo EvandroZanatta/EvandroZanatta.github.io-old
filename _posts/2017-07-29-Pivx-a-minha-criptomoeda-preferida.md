@@ -36,11 +36,11 @@ O principal problema que eu vejo hoje, é a demora excessiva para confirmar uma 
 
 Mas é nessa hora que entra o Pivx, se este mesmo pagamento na padaria fosse feito usando Pivx, a transação poderia ocorrer até mais rápida do que com dinheiro ou cartão de crédito.
 
-Era nessa problematização que eu estav interessado. Desenvolver um PoS ou cartão de crédito(leia débito) para ser usado em transações que necessitam ser instantâneas.
+Era nessa problematização que eu estav interessado. _Desenvolver um PoS ou cartão de crédito(leia débito) para ser usado em transações que necessitam ser instantâneas._
 
 ### Problema quase resolvido
 
-Agora que conheci o Pivx, acho que este problema ~~tecnologicamente~~ está resolvido, faltando apenas ser aplicado ao “mundo real”. Hoje(28/07/17), foi lançado o aplicativo de carteira do Pivx para celulares Android, e praticamente é um PoS.
+Agora que conheci o Pivx, acho que este problema ~~tecnologicamente~~ está resolvido, faltando apenas ser aplicado ao _“mundo real”_. Hoje(28/07/17), foi lançado o aplicativo de carteira do Pivx para celulares Android, e praticamente é um PoS.
 
 Na carteira, é possível receber um pagamento apresentando o QR Code(que é referente ao hash da carteira) para que o pagador escaneie, digite a quantidade de PIV a ser transferida, ao concluir, a transação é a realizada praticamente instantânea.
 
