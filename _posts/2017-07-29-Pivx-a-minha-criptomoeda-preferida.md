@@ -48,4 +48,4 @@ O que falta agora, é a popularização desse tipo de aplicação em meio a come
 
 ## Para conhecer o Pivx melhor
 
-Se você gostou do Pivx e quer conhecer mais sobre essa criptomoeda incrível, acesse o site (www.pivx.org)[https://www.pivx.org/]
+Se você gostou do Pivx e quer conhecer mais sobre essa criptomoeda incrível, acesse o site [www.pivx.org](https://www.pivx.org/).
