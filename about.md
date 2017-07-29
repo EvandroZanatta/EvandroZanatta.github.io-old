@@ -7,7 +7,7 @@ tags: about
 
 Olá, meu nome é Evandro Zanatta. Abaixo irei falar um pouco sobre mim.
 
-Eu trabalho na [Tray E-commerce](https://www.tray.com.br) no setor de marketing como **Full-Stack Developer**, a Tray é uma empresa do Grupo [Locaweb](https://www.locaweb.com.br/default.html). Sou responsável por arquitetar e desenvolver novos sites e plataformas.
+Eu trabalho na [Tray](https://www.tray.com.br) no setor de marketing como **Full-Stack Developer**, a Tray é uma empresa do Grupo [Locaweb](https://www.locaweb.com.br/default.html). Sou responsável por arquitetar e desenvolver novos sites e plataformas.
 
 ## Projetos
 
