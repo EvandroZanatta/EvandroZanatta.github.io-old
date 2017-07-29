@@ -7,7 +7,7 @@ tags: about
 
 Olá, meu nome é Evandro Zanatta. Abaixo irei falar um pouco sobre mim.
 
-Eu trabalho na [https://www.tray.com.br](Tray E-commerce)no setor de marketing como **Full-Stack Developer**, a Tray é uma empresa do Grupo [https://www.locaweb.com.br/default.html](Locaweb). Sou responsável por arquitetar e desenvolver novos sites e plataformas.
+Eu trabalho na (https://www.tray.com.br)[Tray E-commerce]no setor de marketing como **Full-Stack Developer**, a Tray é uma empresa do Grupo (https://www.locaweb.com.br/default.html)[Locaweb]. Sou responsável por arquitetar e desenvolver novos sites e plataformas.
 
 ## Projetos
 
@@ -15,7 +15,7 @@ Possuo diversos projetos em andamento aos quais me dedico no meu tempo livre.
 
 ### InApplet
 
-Também estou fundando uma empresa chama [http://inapplet.com](InApplet) a qual está em um estagio bem inicial. Pretendo tornar o InApplet uma grande plataforma de ferramentas para desenvolvedores, com serviços como autenticação, pagamentos e e-mails.
+Também estou fundando uma empresa chama (http://inapplet.com)[InApplet] a qual está em um estagio bem inicial. Pretendo tornar o InApplet uma grande plataforma de ferramentas para desenvolvedores, com serviços como autenticação, pagamentos e e-mails.
 
 ### AgroMille
 
