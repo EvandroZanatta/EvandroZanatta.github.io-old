@@ -6,6 +6,8 @@ summary:    Saiba porque eu gosto tanto dessa criptomoeda, e o que ela tem de t
 categories: criptomoeda
 ---
 
+![Pivx](https://satoshiwatch.com/wp-content/uploads/2017/03/7765bfb3f268786d5b95c342727b9e4a.jpg)
+
 Se você ainda não sabe o que é uma criptomoeda, provavelmente já deve ter ouvido falar de Bitcoin, um tipo de moeda virtual. Mas se não ouviu falar ainda em moeda virtual, recomendo ler [este artigo aqui](https://www.bitcoinbrasil.com.br/o-que-e-bitcoin/).
 
 ## O que é Pivx?
