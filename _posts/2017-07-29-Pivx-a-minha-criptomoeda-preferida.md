@@ -20,15 +20,15 @@ Não é uma moeda que pode ser minerada, pois ela utiliza a tecnologia Pos 3.0 (
 
 ### Instantânea
 
-Este é o item que mais me chamou atenção nessa moeda. Através da tecnologia **SwiftTX**, as transações são realizadas em questão de 1 a 3 segundos em média, sendo um ponto muito positivo em relação às demais, e principalmente ao Bitcoin, que pode demorar até 2 dias para confirmar a transação. Isso torna bem viável, para usar em casos de pagamentos instantâneos, mas vou falar disso daqui a pouco.
+Este é o item que mais me chamou atenção nessa moeda. Através da tecnologia **SwiftTX**, as transações são realizadas em questão de 1 a 3 segundos em média, sendo um ponto muito positivo em relação às demais, e principalmente ao Bitcoin, que pode demorar até 2 dias para confirmar a transação. Isso torna o Pivx uma opção viável, para usar em casos de pagamentos instantâneos, mas vou falar mais sobre isso daqui a pouco.
 
 ### Masternodes
 
-Estes são os caras responsáveis por validar as transações. Para ser um masternode, você precisa possuir uma carteira com mais de 10.000 PIV, e com isso, você recebe uma quantia um pouco maior do que os demais. Agora, em julho de 2017, atualmente possui cerca de 2400 masternodes ativos.
+Estes são os caras responsáveis por validar as transações. Para ser um masternode, você precisa possuir uma carteira com mais de 10.000 PIV, e com isso, você recebe uma quantia de "juros" um pouco maior do que os demais. Atualmente(jul/2017) existem cerca de 2400 masternodes ativos.
 
 ### Privacidade
 
-No Pivx, para garantir a privacidade das pessoas, existem diversas ferramentas para garantir o anonimato.
+No Pivx, para garantir a privacidade das pessoas, existem diversas ferramentas para garantir o anonimato. O que mais chamou atenção foi a tentativa da implementaço do protocolo ZeroCoin, que busca ofuscar o histórico de transações, assim, sendo menos rastreável e mais anônima.
 
 ## Cartão de crédito ou Point of Sale com criptomoedas
 
@@ -38,15 +38,15 @@ O principal problema que eu vejo hoje, é a demora excessiva para confirmar uma 
 
 Mas é nessa hora que entra o Pivx, se este mesmo pagamento na padaria fosse feito usando Pivx, a transação poderia ocorrer até mais rápida do que com dinheiro ou cartão de crédito.
 
-Era nessa problematização que eu estav interessado. _Desenvolver um PoS ou cartão de crédito(leia débito) para ser usado em transações que necessitam ser instantâneas._
+Era nessa problematização que eu estava interessado. _Desenvolver um PoS ou cartão de crédito(leia débito) para ser usado em transações que necessitam ser instantâneas._
 
 ### Problema quase resolvido
 
 Agora que conheci o Pivx, acho que este problema ~~tecnologicamente~~ está resolvido, faltando apenas ser aplicado ao _“mundo real”_. Hoje(28/07/17), foi lançado o aplicativo de carteira do Pivx para celulares Android, e praticamente é um PoS.
 
-Na carteira, é possível receber um pagamento apresentando o QR Code(que é referente ao hash da carteira) para que o pagador escaneie, digite a quantidade de PIV a ser transferida, ao concluir, a transação é a realizada praticamente instantânea.
+Na carteira, é possível receber um pagamento apresentando o QR Code(que é referente ao hash da carteira) para que o pagador escaneie, a seguir digite a quantidade de PIV a ser transferida, e ao concluir, a transação é a realizada instantâneamente.
 
-O que falta agora, é a popularização desse tipo de aplicação em meio a comerciantes, o que é um grande desafio por causa da adoção lenta desse tipo de nova tecnologia, em que eu pessoalmente acredito, ser causado pelo pouco conhecimento. O próprio Bitcoin possui 8 anos, e ainda é desconhecido por grande parte da população mundial. Outro caso, é o uso desse tipo de moeda em vendas ilegais, como na plataforma Silk Road, que queimou um pouco a imagem do Bitcoin.
+O que falta agora, é a popularização desse tipo de aplicação em meio a comerciantes, o que é um grande desafio por causa da adoção lenta desse tipo de nova tecnologia, em que eu pessoalmente acredito, ser causado pelo pouco conhecimento das pessoas sobre o assunto. O próprio Bitcoin possui 8 anos e existência, e ainda é desconhecido por grande parte da população mundial. Outro caso, é o uso desse tipo de moeda em vendas ilegais, como na plataforma Silk Road, que queimou um pouco a imagem do Bitcoin.
 
 ## Para conhecer o Pivx melhor
 
