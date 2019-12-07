@@ -28,13 +28,13 @@ O ideal é usar uma ferramenta de Product Analytics que rastreie sozinha todos o
 
 Assim, não é necessário criar uma estratégia ou criar os eventos.
 
-Também é possível consultar eventos retroativos, o que não é possível com uma ferramenta de eventos manuais, caso tenha esquecido criar o evento no passado.
+Também é possível consultar eventos retroativos, o que não é possível com uma ferramenta de eventos manuais, caso tenha esquecido de criar o evento no passado.
 
 ## Identificar os usuários
 
 Um ponto mais avançado, é conseguir distinguir uma pessoa de toda a massa. 
 
-O Google Analytics não mostra quem visitou uma página, apenas a quantidade de vizualizações.
+O Google Analytics não mostra quem visitou uma página, apenas a quantidade de visualizacões.
 
 Para resolver isso, existem plataformas de Product Analytics que permitem identificar os usuários e tira-los do anonimato. 
 
@@ -49,14 +49,14 @@ Elabore perguntas sobre o comportamento dos usuários, tente entender sobre:
 - Fluxos de comportamento;
 - Desistências de compras ou fluxos.
 
-Responda as perguntas com um evento apenas, como:
+Responda às perguntas com um evento apenas, como:
 
 * Quantos usuários visitaram a página *sobre*.
 
 Ou determine uma sequência de eventos:
 
 * Quantos usuários visitaram a página sobre a empresa antes de comprar um produto ou cadastrar no seu site
-* Quantos começaram a preencher um formulário mas não concluíram.
+* Quantos começaram a preencher um formulário, mas não concluíram.
 
 ## Estatística e análise preditiva
 
